@@ -94,7 +94,7 @@ export default function HomePage() {
 
         <div className="text-4xl sm:text-5xl font-bold mb-10 text-center drop-shadow-lg">
           <TrueFocus
-            sentence="Studentlink Web App"
+            sentence="PeerLink Web App"
             manualMode={false}
             blurAmount={5}
             borderColor="green"

@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 // SEO va metadata
 export const metadata: Metadata = {
-  title: "Studentlink", // Sahifa title
+  title: "PeerLink", // Sahifa title
   description: "Created by rrangesi - A platform to connect students",
   icons: {
     icon: "/favicon.png", // Favicon fayli `public/` papkasida bo'lishi kerak
